@@ -1,5 +1,5 @@
 <h1>JUEGO LUNAR LANDER</h1>
-<a href="https://rawgit.com/jordanfast/FormularioBuena/master/examen.html">Haciendo Click aquí podrás hacer el examen.</a>
+<a href="https://rawgit.com/jordanfast/FormularioBuena/mini/examenmini.html">Haciendo Click aquí podrás hacer el examen.</a>
 <h2>Contenido del proyecto</h2>
   <p><b>Fichero index.html</b> Página que contiene , titulo, logo, botón de corregir y ver la puntuación se activará cuando se presione el botón,enlace a información y lo mas importante las preguntas del examen. </p>
   <p><b>Fichero about.html:</b> Información respecto al examen , se ve el logo.</p>
