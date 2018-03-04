@@ -1,9 +1,9 @@
 <h1>JUEGO LUNAR LANDER</h1>
-<a href="https://rawgit.com/jordanfast/LunarLander4/master/index.html">Haciendo Click aquí puedes trastear el juego.</a>
-<h2>Procesos del Proyecto:</h2>
-  <p><b>Primero:</b> He cogido el fichero de javascript  y lo he agregado al proyecto. </p>
-  <p><b>Segundo:</b> He creado un nuevo fichero HTML llamado "about". </p>
-  <p><b>Tercero:</b> He adecuado el javascript con el HTML y CSS.</p>
+<a href="https://rawgit.com/jordanfast/FormularioBuena/master/examen.html">Haciendo Click aquí podrás hacer el examen.</a>
+<h2>Contenido del proyecto</h2>
+  <p><b>Ficheros CSS:</b> Estos 2 ficheros estan en un directorios llamado css y realiza estilos de en la página pagina principal del examen y también de información. Cada archivo se ejecutára segun la pantalla del ordenador , si la resolución supera los 761 px se activara el d.cdd y si esta por debajo de 760px se activara m.css. </p>
+  <p><b>Directorio Img:</b> Aquí estara el logo de este examen. </p>
+  <p><b>directorio JS:</b> Hay un fichero javascript y desenvolupará las funciones del examen.</p>
   <p><b>Cuarto:</b> Para poder adecuar tuve que buscar información de diferentes fuentes: en internet y moodle. </p>
   <p><b>Quinto:</b> Mimificación de los archivos.</p>
 <h2>Los procesos realizados en el proyecto:</h2>
