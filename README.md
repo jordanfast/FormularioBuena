@@ -1,4 +1,4 @@
-<h1>Examen de Autocorrección</h1>
+<center><h1>Examen de Autocorrección</h1></center>
 <a href="https://rawgit.com/jordanfast/FormularioBuena/master/examen.html">Haciendo Click aquí podrás hacer el examen.</a>
 <h2>Contenido del proyecto</h2>
   <h3><p><b>Fichero index.html</b></h3> Página que contiene , titulo, logo, botón de corregir y ver la puntuación se activará cuando se presione el botón,enlace a información y lo mas importante las preguntas del examen. </p>
